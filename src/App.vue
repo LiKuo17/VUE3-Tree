@@ -11,7 +11,7 @@ import waterFull from "./components/water-full.vue"
 // import Card from "./components/Card.vue";
 import Tree from "./components/Tree.vue";
 interface Tree {
-    name: string;
+    name: string; 
     checked: boolean;
     children?: Tree[];
 }
