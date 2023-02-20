@@ -7,7 +7,7 @@
 
 <script setup lang="ts">
 import {ref, reactive} from "vue"
-import waterFull from "./components/water-full.vue"
+// import waterFull from "./components/water-full.vue"
 // import Card from "./components/Card.vue";
 import Tree from "./components/Tree.vue";
 interface Tree {
