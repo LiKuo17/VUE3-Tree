@@ -1,10 +1,10 @@
 <template>
     <div class="card">
         <header>
-            <div>标题1</div>
-            <div>副标题1</div>
+            <div>标题12</div>
+            <div>副标题311</div>
         </header>
-        <section>内容1</section>
+        <section>内容11</section>
     </div>
 </template>
 
